@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-8f8lid/static/css/main.7abadb53.chunk.css",
+    "main.js": "https://.github.io/csb-8f8lid/static/js/main.409eee1f.chunk.js",
+    "main.js.map": "https://.github.io/csb-8f8lid/static/js/main.409eee1f.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-8f8lid/static/js/runtime-main.af898d03.js",
+    "runtime-main.js.map": "https://.github.io/csb-8f8lid/static/js/runtime-main.af898d03.js.map",
+    "static/js/2.dd6e6739.chunk.js": "https://.github.io/csb-8f8lid/static/js/2.dd6e6739.chunk.js",
+    "static/js/2.dd6e6739.chunk.js.map": "https://.github.io/csb-8f8lid/static/js/2.dd6e6739.chunk.js.map",
+    "index.html": "https://.github.io/csb-8f8lid/index.html",
+    "static/css/main.7abadb53.chunk.css.map": "https://.github.io/csb-8f8lid/static/css/main.7abadb53.chunk.css.map",
+    "static/js/2.dd6e6739.chunk.js.LICENSE.txt": "https://.github.io/csb-8f8lid/static/js/2.dd6e6739.chunk.js.LICENSE.txt",
+    "static/media/IPL_game.419e7772.png": "https://.github.io/csb-8f8lid/static/media/IPL_game.419e7772.png",
+    "static/media/download1.2569d2db.jfif": "https://.github.io/csb-8f8lid/static/media/download1.2569d2db.jfif",
+    "static/media/flipkart.a13e70f9.jpg": "https://.github.io/csb-8f8lid/static/media/flipkart.a13e70f9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af898d03.js",
+    "static/js/2.dd6e6739.chunk.js",
+    "static/css/main.7abadb53.chunk.css",
+    "static/js/main.409eee1f.chunk.js"
+  ]
+}
